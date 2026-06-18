@@ -27,7 +27,7 @@ Edit `.env.production`:
 NEXT_PUBLIC_DERIV_APP_ID=33stOEdBBT6OJNq5sdS5f
 NEXT_PUBLIC_DERIV_REDIRECT_URI=http://klabueats.site
 NEXT_PUBLIC_DERIV_APP_NAME=TRADERPRO 
-NEXT_PUBLIC_DERIV_REFERRAL_LINK=your_referral_link_here
+NEXT_PUBLIC_DERIV_REFERRAL_LINK=https://partner-tracking.deriv.com/click?a=29588&o=1&c=3&link_id=1
 NEXT_PUBLIC_DERIV_OAUTH_SCOPES=trade,account_manage
 NEXT_PUBLIC_DERIV_ENV=production
 ```
