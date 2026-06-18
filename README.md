@@ -24,9 +24,9 @@ cp .env.example .env.production
 Edit `.env.production`:
 
 ```env
-NEXT_PUBLIC_DERIV_APP_ID=your_app_id_here
-NEXT_PUBLIC_DERIV_REDIRECT_URI=https://your-registered-redirect-uri.com
-NEXT_PUBLIC_DERIV_APP_NAME=your_app_name_here
+NEXT_PUBLIC_DERIV_APP_ID=33stOEdBBT6OJNq5sdS5f
+NEXT_PUBLIC_DERIV_REDIRECT_URI=http://klabueats.site
+NEXT_PUBLIC_DERIV_APP_NAME=TRADERPRO 
 NEXT_PUBLIC_DERIV_REFERRAL_LINK=your_referral_link_here
 NEXT_PUBLIC_DERIV_OAUTH_SCOPES=trade,account_manage
 NEXT_PUBLIC_DERIV_ENV=production
